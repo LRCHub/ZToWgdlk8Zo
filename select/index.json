@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "よろこびのうた",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2025-12-30T16:08:13.270944Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "よろこびのうた",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/01_よろこびのうた_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "よろこびのうた",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/02_よろこびのうた_キタニタツヤ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "よろこびのうた - Leaks From His Laptop",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/03_よろこびのうた_-_Leaks_From_His_Laptop_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "よろこびのうた (Lyric Video) / キタニタツヤ - Ode to Joy (Lyric Video) / Tatsuya Kitani",
+      "artist": "Tatsuya Kitani",
+      "has_synced": false,
+      "path": "select/04_よろこびのうた_(Lyric_Video)___キタニタツヤ_-_Ode_to_Joy_(Lyric_Video)___Tatsuya_Kitani_Tatsuya_Kitani.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "よろこびのうた",
+      "artist": "Kitani, Tatsuya",
+      "has_synced": false,
+      "path": "select/05_よろこびのうた_Kitani,_Tatsuya.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "よろこびのうた (Leaks From His Laptop)",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/06_よろこびのうた_(Leaks_From_His_Laptop)_キタニタツヤ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "よろこびのうた",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_よろこびのうた_キタニタツヤ.txt"
+    }
+  ]
+}
